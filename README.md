@@ -1,4 +1,3 @@
 # Hangman
-test
-hello
-how are you
+
+## Description
